@@ -8,7 +8,7 @@ You can change the total time depending on how long you want your simulation to 
 ## Low pass filter parameters
 You can change the resistance in ohms and the capacitance in farads to your desired values.
 
-## PWM paramters
+## PWM parameters
 You can change the pwm frequency to your preferred frequency.\
 You can change the duty cycle to your preferred percentage, however the value needs to be a fraction. So for example, for a 20% duty cycle you would need to enter 0.2 as your duty cycle value.\
 You can change the input voltage to your preferred voltage.
