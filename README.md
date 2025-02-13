@@ -15,5 +15,7 @@ You can change the input voltage to your preferred voltage.
 
 ## Math and physics 
 For the maths and physics behind this I would highly recommend this wikipedia page:\
-https://en.wikipedia.org/wiki/Low-pass_filter#Discrete-time_realization 
-![image](https://github.com/user-attachments/assets/667a0c22-344b-4ed9-b493-58f72e03f3ef)
+https://en.wikipedia.org/wiki/Low-pass_filter#Discrete-time_realization :\
+
+##Examples
+![image](https://github.com/user-attachments/assets/667a0c22-344b-4ed9-b493-58f72e03f3ef) :\
