@@ -1,4 +1,4 @@
-# Low pass filter simulation with an PWM input signal
+# Low pass filter simulation with a PWM input signal
 Simulates a low pass filter circuit that plots the PWM signal input and filterd output.
 
 ## Simulation parameters
